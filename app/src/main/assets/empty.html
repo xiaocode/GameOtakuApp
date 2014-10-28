@@ -1,0 +1,259 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="baidu-site-verification" content="SJajEjrWMo">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-store, must-revalidate">
+<meta http-equiv="expires" content="0">
+<title>嘟嘟噜小游戏-让您玩得根本停不下来</title>
+<meta name="keywords" content="嘟嘟噜小游戏-让您玩得根本停不下来">
+<meta name="description" content="嘟嘟噜小游戏-让您玩得根本停不下来">
+<meta name="viewport"
+      content="width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
+<style type="text/css">
+    .wrap{z-index:1;background-color:#000;opacity:0.1;filter:alpha(opacity:10);position:absolute;left:0;top:0;}
+
+    body {
+    background: #383f4f;
+    }
+
+    #header-section, #header-section-fixed, #footer-section {
+    height: 48px;
+    width: 100%;
+    }
+
+    #header-section {
+    /*margin-bottom: 4px;*/
+    }
+
+    #header-section-fixed {
+    position: relative;
+    top: 0;
+    z-index: 999;
+    background: #383f4f;
+    }
+    #header-section-fixed.fixed {
+    position: fixed;
+    }
+
+
+    #header-section.hidden, #footer-section.hidden {
+    display: none;
+    }
+
+    #footer-section {
+    position: fixed;
+    bottom: 0;
+    }
+
+    #DDL_toolbar {
+    display: none;
+    }
+
+    .pull-left {
+    float: left;
+    }
+
+    .header-block {
+    height: 48px;
+    width: 25%;
+    line-height: 40px;
+    text-align: center;
+    background: #383f4f;
+    position: relative;
+    }
+    .header-block.actived #game-filter {
+    background: rgba(0,204,255,1);
+    }
+
+    .header-block-inner-right {
+    /*border-right: 1px solid #666;*/
+    }
+    .header-block-inner-left {
+    /*border-left: 1px solid #666;*/
+    }
+    .header-block-inner {
+    margin: 2px;
+    border-radius: 4px;
+    }
+
+    .header-block-icon {
+    width: 20px;
+    height: 20px;
+    margin-bottom: -4px;
+    margin-right: 4px;
+    }
+
+    #game-filter-list {
+    display: none;
+    position: absolute;
+    width: 220px;
+    }
+    #game-filter-list.opened {
+    display: block;
+    }
+    .filter-list-item {
+    background: rgba(0,204,255,1);
+    /*border-bottom: 1px dashed #EEE;*/
+    text-align: left;
+    position: relative;
+    height: 40px;
+    box-shadow: 2px 2px 4px #333;
+    margin-top: 4px;
+    }
+    .filter-list-item:last-child {
+    border-bottom: none;
+    }
+
+    .filter-name {
+    position: absolute;
+    top: 2px;
+    left: 20px;
+    font-weight: bold;
+    }
+    .filter-count {
+    position: absolute;
+    top: 2px;
+    right: 20px;
+    }
+    .filter-new-count {
+    color: #FF6666;
+    }
+
+    #game-today {
+    background-color: #FF0066;
+    margin-top: 3px;
+    }
+    #game-filter {
+    /*margin: 3px 0;*/
+    background-color: #0099FF;
+    }
+    #game-follow {
+    background-color: #FFCC66;
+    }
+    #game-bbs {
+    background-color: #9999FF;
+    }
+
+    .list-item {
+    position: relative;
+    padding: 10px 10px;
+    border-bottom: 1px solid #000;
+    }
+    .list-item>figure {
+    display: -webkit-box;
+    -webkit-box-align: center;
+    }
+    .list-item-icon {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 0 10px 0 0;
+    border-radius: 8px;
+    }
+    .list-item-body {
+    -webkit-box-flex: 1;
+    display: block;
+    }
+    .list-item-title {
+    font-size: 15px;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    }
+    .list-item-body>p {
+    height: 20px;
+    line-height: 20px;
+    font-size: 12px;
+    color: #FFF;
+    }
+    .list-item-button {
+    font-size: 13px;
+    display: block;
+    line-height: 26px;
+    height: 26px;
+    width: 56px;
+    background-color: #1BC29B;
+    text-decoration: none;
+    text-align: center;
+    color: #FFF;
+    }
+
+    #content-list {
+    position: relative;
+    height: 100%;
+    }
+    #block-click-cover {
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    }
+    #block-click-cover.opened {
+    display: block;
+    }
+
+    #content-header {
+    height: 20px;
+    color: #FFF;
+    }
+    #content-header .content-header-inner {
+    height: 100%;
+    padding: 0 10px;
+    border-left: 5px solid #1BC29B;
+    }
+</style>
+</head>
+<body screen_capture_injected="true">
+
+<header id="header-bar">
+    <!-- <img style="width:100%;" src="./image/head_bar.jpg"> -->
+</header>
+<section id="header-section">
+    <div id="header-section-fixed">
+        <div class="header-block pull-left">
+            <div class="header-block-inner" id="game-filter">
+                <span>游戏分类</span>
+            </div>
+            <ul id="game-filter-list"></ul>
+        </div>
+        <div class="header-block pull-left">
+            <div class="header-block-inner" id="game-today">
+                <span>今日热门</span>
+            </div>
+        </div>
+        <div class="header-block pull-left">
+            <div class="header-block-inner" id="game-bbs">
+                <span>进入社区</span>
+            </div>
+        </div>
+        <div class="header-block pull-left">
+            <div class="header-block-inner" id="game-follow">
+                <span>关注我们</span>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content-list">
+    <div id="block-click-cover"></div>
+    <div id="content-header">
+        <div class="content-header-inner">
+            &lt; <span id="content-header-title">所有游戏</span> &gt;
+        </div>
+    </div>
+    <ul id="content-list-ul"></ul>
+</section>
+
+<footer></footer>
+
+<!--<script language="javascript" src="js/public.js"></script>-->
+
+</body>
+</html>

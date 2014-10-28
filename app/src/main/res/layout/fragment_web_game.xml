@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDDDD">
+
+    <ListView
+        android:id="@android:id/list"
+        style="@style/ListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_menu"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="8dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@android:id/empty"
+        style="@style/ListSubtitleText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/pb_loading"
+        style="@style/ListSpinner"
+        android:layout_centerInParent="true" />
+
+    <RelativeLayout
+        android:id="@+id/bottom_menu"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <Button
+                android:id="@+id/action_hot"
+                style="@style/FlatButton"
+                android:layout_marginEnd="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:text="@string/action_hot" />
+
+            <Button
+                android:id="@+id/action_category"
+                style="@style/FlatButton"
+                android:layout_marginLeft="1dp"
+                android:layout_marginStart="1dp"
+                android:layout_weight="1"
+                android:text="@string/action_category" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

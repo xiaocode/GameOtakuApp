@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cycleInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:cycles="5" /><!-- From: file:/Users/Vincent/Github/GameOtakuApp/social_sdk_library_project/src/main/res/anim/shake_umeng_socialize_cycle_5.xml -->

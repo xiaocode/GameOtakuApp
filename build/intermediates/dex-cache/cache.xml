@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_QQZone_2-c784a1da12e9a640b72e0e3711901b20dd9e5f0f.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="73915005d14af2994f235034b9f9832d666a6ec9" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_QQZone_3-fffd6b1e001d376232d1f606a8692dae0c8aeb4e.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="041517af5e95fa9d2b03f6d455fed8cc6e27572f" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_1-f000d100a36b804b2d42037621a3c2c3db509547.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_renren_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_actionbarview-622f5a5da6ffe9f7a75de742f8ba8f48f3bde5de.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_actionbarview.jar"
+        jumboMode="false" revision="19.1.0" sha1="8617f450010ecdc469b400982e5b42c31239a82f" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2-e7a95846caf8dedaa8d662494f0bce4afa6b18c6.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="55dd5f3c882cebdc0245abd749725446917c4ab1" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_scrshot-9cf1aa97156a9dd05fb4fafc09095ba94b5d26c2.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_scrshot.jar"
+        jumboMode="false" revision="19.1.0" sha1="19bb87cfac63079fc381bcc0aeb0bd0417c34adc" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-baa7aafd68b2ff58f5e47a300a8b49c284babee3.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_UserCenter-1222bf3ad8e05472c660e9fd2c9cba9262004e9a.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_UserCenter.jar"
+        jumboMode="false" revision="19.1.0" sha1="a9e00a50345fc429d667e93d4b7c771eab4598c9" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-c88785b7a919abe6bfba15152c8a044ccc70a842.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false" revision="19.1.0" sha1="efb0a36546aa8857ab8df358b106c1817e03cbee" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/httpmime-4.1.3-535767590eed9f7faeefb6f26224762fc059a00d.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/httpmime-4.1.3.jar"
+        jumboMode="false" revision="19.1.0" sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3-9bd210215ebf05a4d6a70c93e4d50ac0b88d8a30.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/httpmime-4.1.3.jar"
+        jumboMode="false" revision="19.1.0" sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-77b57d2cf21510a4a894a2477e27b50f18f44dfc.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="6f859c56f21c2976bdc8dc8da6185df0cda6b8ad" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_Sina-968478e80e1b26d752b3819c9865f711b945a0b7.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_Sina.jar"
+        jumboMode="false" revision="19.1.0" sha1="6fb8e2873aaf0761ae91069d794e6bad0d8952b3" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_1-6e02f0fb4c76e243bdca5ff379646607a0d71dfa.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="683f207519e21edd9d4fcfe8ef8fc2533c88ef1b" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_2-d8a11c917272688c58cda1bf742436b812102e8f.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="745bd41ff5afa25585cafaa3968c2db2b4158b84" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/greendao-1.3.7-20f15a04b3e340bda32f308b8315227cde930a4c.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/1.3.7/dda08161d004c4df96938da6909f1c2b96cd33c8/greendao-1.3.7.jar"
+        jumboMode="false" revision="19.1.0" sha1="dda08161d004c4df96938da6909f1c2b96cd33c8" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/library-2.4.0-03d0934ca43e028eda975c6eaa80fead8ce41586.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false" revision="19.1.0" sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-bba1767009d4b58f6cc74a3ba1f4da08418d30c8.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="8694693636ab36910c8100ce527c258ff3ebece0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_scrshot-d8f9b40b30ac65c31d929eb8239dae3619675649.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_scrshot.jar"
+        jumboMode="false" revision="19.1.0" sha1="19bb87cfac63079fc381bcc0aeb0bd0417c34adc" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2-0ab63a2efd665d2ebd59588a279a16c1e1d4c31f.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="55dd5f3c882cebdc0245abd749725446917c4ab1" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_2-b22debbc0aa82fb3f82aa20f4f755cac5b98a44a.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_renren_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="260c799c4dd13ebfafeb98caf1eeebc8cdb689c0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/gson-2.2.4-5af94570fb26d2544dd3ee517c9921799f919900.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false" revision="19.1.0" sha1="a60a5e993c98c864010053cb901b7eab25306568" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_3-b27ab0697fc2c6069c6a6c1a99a1fee301201d51.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="04278ed4ea5c75f278381c123d40552514c0bf5c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-9e065f33c8504036f7a3f1da75bc3034e913bdc4.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.github.kevinsawicki/wishlist/0.9/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="7c1fee313f20e5f6f32a69a4555a7ae1f9558f35" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/classes-1ba4f6365c5caf5173d514a7ca2599727ec764aa.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="8694693636ab36910c8100ce527c258ff3ebece0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/umeng-update-v2.4.2-3903f06681556b5ba77bf73f0b3b71e0acf977a3.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/libs/umeng-update-v2.4.2.jar"
+        jumboMode="false" revision="19.1.0" sha1="ee700e317f574886dc0a236b801f219df6fbd26d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_sms-351d56d20e8d7696adcc309b76d4fab8bcbcfe36.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_sms.jar"
+        jumboMode="false" revision="19.1.0" sha1="3cdb73796e336bd8c7711b060f89318845e8625e" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-8aa3bbdec1b66a8a19cc00ff4608f3e0f6325385.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-7bc3298eadb412ba33c1778156d6a022a577bc0c.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="7912610ed96381c25c36d986eba422731b9641b6" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.4-ea1a1e7162f5807b732c34ae5c276ec4837a6fc9.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="false" revision="19.1.0" sha1="124e0c15ac2b0b061ad4e68fc6ac0a32f33e2b33" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1-8d357ba5087cb89bc928b98971ae7a8a2e4dcff1.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/android-pusher-0.6-c3f9e58c543a946f37d31e8aff92f342c5d00728.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.github.kevinsawicki/android-pusher/0.6/ea53585070abe6e74f7cfeb175def92b12530be8/android-pusher-0.6.jar"
+        jumboMode="false" revision="19.1.0" sha1="ea53585070abe6e74f7cfeb175def92b12530be8" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/umeng-fb-v4.3.2-8cadcc9a6a1c253c0cc639661d869ddb7536e401.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/libs/umeng-fb-v4.3.2.jar" jumboMode="false"
+        revision="19.1.0" sha1="26de25c95d3353d71406e65bb64e4b67fae707e0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1-2e65d74c3cc0c3c5a43bcc39541fd9d6d540a833.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1-0c4615f2e1ee275ef89984654299740f9866861a.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina-aa25428d72c1cde082e0b6598f38eb4953cb7a62.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_Sina.jar"
+        jumboMode="false" revision="19.1.0" sha1="6fb8e2873aaf0761ae91069d794e6bad0d8952b3" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-80fdee02989b68b618a80c30c1773b5d72e9feab.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false" revision="19.1.0" sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_like-f7428c173ace583080686f52acc3a1c2069440bc.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_like.jar"
+        jumboMode="false" revision="19.1.0" sha1="0f6c9701e48f9071b614e3a1fa37051e1b0b04c2" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_tencentWB_2-b4868ee4dd99780d46e98f2e65436f0dcd60ca51.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_shake-fb39c00dc9ddfc1f8370355e54cd68761d6993d5.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_shake.jar"
+        jumboMode="false" revision="19.1.0" sha1="5b50c04e6c5325b08081a4890f375c83178067e2" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/umeng-update-v2.4.2-100ad160d923f8d05a8e5d3705612f8d97db1395.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/libs/umeng-update-v2.4.2.jar" jumboMode="false"
+        revision="19.1.0" sha1="ee700e317f574886dc0a236b801f219df6fbd26d" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina-f46a2d620eec027f5cca9115856d48da80f96dbf.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_Sina.jar"
+        jumboMode="false" revision="19.1.0" sha1="6fb8e2873aaf0761ae91069d794e6bad0d8952b3" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-f2d01fcbe16eca77680fc98c08d7cdfa5c7c285f.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="1f0db1e1a9b54cf91146e68ffe425d8b014ac422" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_AtFriends-41b5216656e349deef1530868207b015d3fd20ac.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_AtFriends.jar"
+        jumboMode="false" revision="19.1.0" sha1="f37797f40ea957cac042681b0dacb41a0dc6a924" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/butterknife-1.3.2-590e9b20f2d212714f44a9e89457e938b9427da3.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/1.3.2/61a856888185f11271372c0508bad85e905617f/butterknife-1.3.2.jar"
+        jumboMode="false" revision="19.1.0" sha1="061a856888185f11271372c0508bad85e905617f" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_yixin_1-4c8ce3ecf7b3632523d35a305fb4950a6a6241c6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_yixin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_scrshot-20483c680086746018b592529bb7dbd75c6d8798.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_scrshot.jar"
+        jumboMode="false" revision="19.1.0" sha1="19bb87cfac63079fc381bcc0aeb0bd0417c34adc" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1-cf9003f3163fe99589df962d12fd3e52b82f06d2.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/umeng_social_sdk-594f4b0067e0eed83d4b6725d5fa1d75f4151a13.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/umeng_social_sdk.jar"
+        jumboMode="false" revision="19.1.0" sha1="d8647fc93fec3ed36c32933348e2d01cfa695be1" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3-d91e6a73a054e1308a86983c15157a028f50552f.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="041517af5e95fa9d2b03f6d455fed8cc6e27572f" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.4-40b0441c04509b80cd5b2b538f41eb63724791bf.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="false" revision="19.1.0" sha1="124e0c15ac2b0b061ad4e68fc6ac0a32f33e2b33" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_QQZone_1-2f898f3379e2a5a3c37d739f551f1cc502370bf4.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_tencentWB_1-12ae908afe6b9925de11876a8cf5a5d6e9289359.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_1-e66bfc5785416ea6142ff5fdcde51aacce1cf936.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="683f207519e21edd9d4fcfe8ef8fc2533c88ef1b" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/picasso-2.3.4-c2e97f22b52f6480a57f0ff420a308b02773b1da.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.4/3b646ddbdac8a33fc45b64564011da81d23e4635/picasso-2.3.4.jar"
+        jumboMode="false" revision="19.1.0" sha1="3b646ddbdac8a33fc45b64564011da81d23e4635" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/dagger-compiler-1.0.1-184fb55b739ba17b1d58a049da7913e24c5c826f.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.0.1/c879320dc5c3cfd5cd069899a75c2a5bce8375b5/dagger-compiler-1.0.1.jar"
+        jumboMode="false" revision="19.1.0" sha1="c879320dc5c3cfd5cd069899a75c2a5bce8375b5" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_tencentWB_3-447d868ccbef72b3b56082634c3bc8b659f9c4c7.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="04278ed4ea5c75f278381c123d40552514c0bf5c" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_sms-325e33cba9f747d3ae815f92249e7b278332bad6.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_sms.jar"
+        jumboMode="false" revision="19.1.0" sha1="3cdb73796e336bd8c7711b060f89318845e8625e" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_facebook_1-9246f4f4b3b9c82e6bd0c094f90d4c63b2bf956c.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_facebook_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="5f50272ac2abe1fb79fcc9528856f445626ada6c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_like-f5cd9422f98316b652f218a493b9d7bb503856af.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_like.jar"
+        jumboMode="false" revision="19.1.0" sha1="0f6c9701e48f9071b614e3a1fa37051e1b0b04c2" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b5ac8599f474df36cfa4e9a3c0096368dde6d7d3.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false" revision="19.1.0" sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_email-3dc25e8d3372841113b8e5de381e4f085f17f7e1.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_email.jar"
+        jumboMode="false" revision="19.1.0" sha1="79ecff80cc595f437f0306b870705442873ffd77" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/internal_impl-20.0.0-e4f82aa327050881cf3064ec7a82a2ba870d7187.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false" revision="19.1.0" sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_2-54d9a60f9ba69845418c2b11eabf5808cb1d375c.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="55dd5f3c882cebdc0245abd749725446917c4ab1" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_2-da789772c8107784ca0d3d0f55bb19bd5b4bcb70.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_yixin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="0823cc9b9fe2868d28c58061b14236e8c664cb57" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-0ab580d51c754de1cdfd50e6fc316b08cfc60b88.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="8694693636ab36910c8100ce527c258ff3ebece0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/commons-io-2.4-d8781db7eb5c1afe8fffb4c62a62f680bbf68ce4.jar"
+        jar="/Users/Vincent/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false" revision="19.1.0" sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_instagram-7d593d7b1dedf84fb61032d0b8fabe069545a91e.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_instagram.jar"
+        jumboMode="false" revision="19.1.0" sha1="de6a274f7feafb555299349faada30869e13ce30" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_actionbarview-14d41c04cdb09fcf7e11cfe769e9d51151ab7864.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_actionbarview.jar"
+        jumboMode="false" revision="19.1.0" sha1="8617f450010ecdc469b400982e5b42c31239a82f" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_2-3af76596ea81d8e37371218e651f6865e9961bd1.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_facebook_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="8ed3941b84cb556e899a63c2e8006dca0b93ef37" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_1-15fbee4390128cc2725f6851e1f46c41d6fac219.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_facebook_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="5f50272ac2abe1fb79fcc9528856f445626ada6c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_laiwang_1-538d770e63e5158701498702f6415a44ab2cf631.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="683f207519e21edd9d4fcfe8ef8fc2533c88ef1b" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_3-2422a7b1c678753afa1efdd021fc95c81c0ece36.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="04278ed4ea5c75f278381c123d40552514c0bf5c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_facebook_2-0ebc1f3603463eb219e6cde869e276f05bd23941.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_facebook_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="8ed3941b84cb556e899a63c2e8006dca0b93ef37" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false" revision="19.1.0" sha1="9d9013e9ff35fc3756411e62873c363c70c638fa" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/umeng_social_sdk-95902658a37dde84b3fb11b672ccb3eeb769de2f.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/umeng_social_sdk.jar"
+        jumboMode="false" revision="19.1.0" sha1="d8647fc93fec3ed36c32933348e2d01cfa695be1" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3-4f5db58f6b87871d6fa9bc1eaf0692523aef80fe.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/httpmime-4.1.3.jar"
+        jumboMode="false" revision="19.1.0" sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_renren_1-bd16e7c76839be7887d9e6107ecaa0260b6c5878.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_renren_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_actionbarview-941c39240e0eb54ae967206c42ad52de23583c14.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_actionbarview.jar"
+        jumboMode="false" revision="19.1.0" sha1="8617f450010ecdc469b400982e5b42c31239a82f" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1-f844a2d4b3d531a8dbc00784f0361595a6cc2348.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_email-861d8302cae5f1cf5bf13400b63eefca1eb9c1a4.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_email.jar"
+        jumboMode="false" revision="19.1.0" sha1="79ecff80cc595f437f0306b870705442873ffd77" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1-56c9f9df81937eeb5163858a1c2f160af929868b.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_1-5025cf4f1be1d27441fe9f94158d98aeb46d3e3b.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_yixin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-52abcd20557e64687e8b40ca566e6a8bfd597342.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="4c28411837dde5410435f3a1660c3e3bfef37a9c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_WeiXin_1-5aac94a28a3c3164507950d18319190f05feca49.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2-dcf766a1a1745ecb5dc4145dbeeeeaddc0b943e9.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/umeng-fb-v4.3.2-5ee31f378918e13b080c098948978e6b3fc1a385.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/libs/umeng-fb-v4.3.2.jar"
+        jumboMode="false" revision="19.1.0" sha1="26de25c95d3353d71406e65bb64e4b67fae707e0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/javawriter-1.0.5-26daa983084007dba0013695aff4bc7f1a223992.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/1.0.5/d4576fdb2fb07cd80ab10c0651c5dbf4de28475c/javawriter-1.0.5.jar"
+        jumboMode="false" revision="19.1.0" sha1="d4576fdb2fb07cd80ab10c0651c5dbf4de28475c" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2-626b6b8e335a287f9438a90fb15d6493d502c1bf.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_AtFriends-7a81493fb8930376262c5da8eaad91805f515ac6.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_AtFriends.jar"
+        jumboMode="false" revision="19.1.0" sha1="f37797f40ea957cac042681b0dacb41a0dc6a924" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-085320bd254c77f5b991b451a84248f020e99c0b.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="7912610ed96381c25c36d986eba422731b9641b6" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/javax.inject-1-425a3473b57aba9c8f58a62134809921e0d3c121.jar"
+        jar="/Users/Vincent/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false" revision="19.1.0" sha1="6975da39a7040257bd51d21a231b76c915872d38" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_sms-f1987261f92452cf9c03cdbfe0cbefa29d9ae853.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_sms.jar"
+        jumboMode="false" revision="19.1.0" sha1="3cdb73796e336bd8c7711b060f89318845e8625e" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_yixin_2-44fecdf6da7b80e4a1c1f61ee9c66ca7a0cdffae.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_yixin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="0823cc9b9fe2868d28c58061b14236e8c664cb57" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_laiwang_2-57e71deee68a9c7ab7281f3ffb57af52ce5b30d6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="745bd41ff5afa25585cafaa3968c2db2b4158b84" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/com.umeng.message.lib-fbe1fc6947851ff4d171962e1e0c43e0d2ba72db.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/libs/com.umeng.message.lib.jar"
+        jumboMode="false" revision="19.1.0" sha1="86edfec334e0991f73c33682d063cd263f874c4f" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_1-5f7bfa1262f60699b4287606bcb72354995478f2.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_renren_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_2-1d9931991dcf69d18cb0f776c4ba23557114dd72.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_renren_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="260c799c4dd13ebfafeb98caf1eeebc8cdb689c0" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_2-889ef11c255b827359a0f17cec3fc71be7d69784.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_yixin_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="0823cc9b9fe2868d28c58061b14236e8c664cb57" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_shake-ea87acd9df956fb15621c896a37940f81f3efba6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_shake.jar"
+        jumboMode="false" revision="19.1.0" sha1="5b50c04e6c5325b08081a4890f375c83178067e2" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/classes-a81d1aa1382590236a95a5add3f6097934f51615.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/com.actionbarsherlock/viewpagerindicator/2.4.1/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="6f859c56f21c2976bdc8dc8da6185df0cda6b8ad" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_renren_2-f7c9860fc84b5ccb6042c826149dee5b984a57d2.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_renren_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="260c799c4dd13ebfafeb98caf1eeebc8cdb689c0" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_2-5c1e3bc5423d0a28aa0673c32431675a40a386f6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_facebook_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="8ed3941b84cb556e899a63c2e8006dca0b93ef37" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_instagram-46b112be64106820156e8dfb64a3139be188486b.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_instagram.jar"
+        jumboMode="false" revision="19.1.0" sha1="de6a274f7feafb555299349faada30869e13ce30" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_AtFriends-8014a6bd0a5879412b2df995a99f407146be728d.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_AtFriends.jar"
+        jumboMode="false" revision="19.1.0" sha1="f37797f40ea957cac042681b0dacb41a0dc6a924" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_email-0b50a842931cb6bf3226737476fc5884b37021c0.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_email.jar"
+        jumboMode="false" revision="19.1.0" sha1="79ecff80cc595f437f0306b870705442873ffd77" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2-38d3147f1271bb534abfc059681e8a13140c9fba.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="73915005d14af2994f235034b9f9832d666a6ec9" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_comment-e3b8bc697a7f7a1024a7b7ad15a6c626904e627d.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_comment.jar"
+        jumboMode="false" revision="19.1.0" sha1="99853d4b86f6d84cce4d4b758ace96fd137d3168" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/classes-996e2c33d2e5f55f1a9b846a56087b0317c6fa42.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/com.github.kevinsawicki/wishlist/0.9/classes.jar"
+        jumboMode="false" revision="19.1.0" sha1="7c1fee313f20e5f6f32a69a4555a7ae1f9558f35" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/umeng_social_sdk-8b2c060879f52914bbf067a0a37bf1638e3b1b73.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/umeng_social_sdk.jar"
+        jumboMode="false" revision="19.1.0" sha1="d8647fc93fec3ed36c32933348e2d01cfa695be1" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_comment-0d686d7e2c20ca8cf10d2b99e9145cb49116ac86.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_comment.jar"
+        jumboMode="false" revision="19.1.0" sha1="99853d4b86f6d84cce4d4b758ace96fd137d3168" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_instagram-be93d37a4ced0a4da8e0b5322f6eed92b4fde99a.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_instagram.jar"
+        jumboMode="false" revision="19.1.0" sha1="de6a274f7feafb555299349faada30869e13ce30" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3-9335ec4c9ddf877ed89e1ff87a6d3559a2d2d31b.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false" revision="19.1.0" sha1="041517af5e95fa9d2b03f6d455fed8cc6e27572f" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_shake-46ab08879aba8642e85ca51d6754eec0252df663.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_shake.jar"
+        jumboMode="false" revision="19.1.0" sha1="5b50c04e6c5325b08081a4890f375c83178067e2" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/com.umeng.message.lib-136b7275a0d2020b4e89153f08f72073a3594523.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/libs/com.umeng.message.lib.jar"
+        jumboMode="false" revision="19.1.0" sha1="86edfec334e0991f73c33682d063cd263f874c4f" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_1-2c506446e49ff61ead69ed9577867b57ae5c70af.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_facebook_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="5f50272ac2abe1fb79fcc9528856f445626ada6c" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/otto-1.3.5-957184598368189094c7a3b4c4cbaa83f4a054fb.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false" revision="19.1.0" sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_2-392450ae8694a6801c0ce486133f6f766bea9bbb.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="745bd41ff5afa25585cafaa3968c2db2b4158b84" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_like-c7d43a3106e786a2e02e7b2e7a92ffe499d4409e.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_like.jar"
+        jumboMode="false" revision="19.1.0" sha1="0f6c9701e48f9071b614e3a1fa37051e1b0b04c2" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/dagger-1.0.1-ba392a03417f19797288fc5b23c25aee967da34b.jar"
+        jar="/Users/Vincent/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.0.1/ec469f2b494fed2aec5af606b61e66ab5ac451cd/dagger-1.0.1.jar"
+        jumboMode="false" revision="19.1.0" sha1="ec469f2b494fed2aec5af606b61e66ab5ac451cd" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_comment-6a03ec2bd877ebe92e46472cc1fd9aa2ce8b741b.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_comment.jar"
+        jumboMode="false" revision="19.1.0" sha1="99853d4b86f6d84cce4d4b758ace96fd137d3168" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2-e2cde91185e0f1b56b24bf62c1f3a0ca69e7e1bc.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false" revision="19.1.0" sha1="73915005d14af2994f235034b9f9832d666a6ec9" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/build/intermediates/pre-dexed/release/SocialSDK_UserCenter-bc6900d7dfd996bd7a4e75ea66dff2a88c41c7c6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/social_sdk_library_project/libs/SocialSDK_UserCenter.jar"
+        jumboMode="false" revision="19.1.0" sha1="a9e00a50345fc429d667e93d4b7c771eab4598c9" />
+    <item
+        dex="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_1-94cbe775dfd7b598e98b26c0c56e86b3cbd962b6.jar"
+        jar="/Users/Vincent/AndroidStudioProjects/dudulugame/app/build/intermediates/exploded-aar/dudulugame/social_sdk_library_project/unspecified/libs/SocialSDK_yixin_1.jar"
+        jumboMode="false" revision="19.1.0" sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca" />
+    <item
+        dex="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/pre-dexed/debug/SocialSDK_UserCenter-909396a3b24c7f85e7d403a95b975f6bfe353197.jar"
+        jar="/Users/Vincent/Github/GameOtakuApp/app/build/intermediates/exploded-aar/GameOtakuApp/social_sdk_library_project/unspecified/libs/SocialSDK_UserCenter.jar"
+        jumboMode="false" revision="19.1.0" sha1="a9e00a50345fc429d667e93d4b7c771eab4598c9" />
+
+</pre-dex-items>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:drawable/list_selector_background" android:state_focused="true" />
+    <item android:drawable="@android:drawable/list_selector_background" android:state_pressed="true" />
+    <item android:drawable="@android:drawable/list_selector_background" android:state_selected="true" />
+    <item android:drawable="@android:color/black" />
+</selector>      <!-- From: file:/Users/Vincent/Github/GameOtakuApp/social_sdk_library_project/src/main/res/drawable/umeng_socialize_commnet_header_bg.xml -->
